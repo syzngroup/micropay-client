@@ -1,0 +1,17 @@
+{
+    "name": "syzn/micropay-client",
+    "description": "Micropay API client",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Yonatan Naxon",
+            "email": "yonatan@syzn.co.il"
+        }
+    ]
+}
