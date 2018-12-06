@@ -13,5 +13,10 @@
             "name": "Yonatan Naxon",
             "email": "yonatan@syzn.co.il"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Syzn\\MicropayClient\\": "src/"
+        }
+    }
 }
