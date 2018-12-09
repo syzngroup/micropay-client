@@ -2,7 +2,7 @@
 
 namespace Syzn\MicropayClient\Actions\SMS;
 
-use Syzn\MicropayClient\SMS\SMS;
+Syzn\MicropayClient\Actions\SMS\SMS;
 
 class Pool extends SMS
 {
